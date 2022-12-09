@@ -1,0 +1,38 @@
+body {
+    background: #FBEAD2;
+}
+
+h2,
+.liens-nav {
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.liens-nav a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    margin: 0 10px;
+}
+
+.makhlouf {
+    display: inline-block;
+    width: 60%;
+    margin-left: 50px;
+}
+
+.contenaire-button * {
+    display: inline-block;
+}
+
+.contenaire-button button {
+    background-color: green;
+    border: none;
+    border-radius: 5px 5px 15px 5px;
+    padding: 10px 20px;
+    color: white;
+}
+
+.contenaire-button span {
+    font-size: 7px;
+}
